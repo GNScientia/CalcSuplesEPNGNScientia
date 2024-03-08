@@ -1,0 +1,18 @@
+/* Cambiar el color de fondo */
+body {
+    background-color: #f0f0f0;
+}
+
+/* Cambiar el color del texto */
+h1 {
+    color: blue;
+}
+
+/* Estilos para el botón */
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
